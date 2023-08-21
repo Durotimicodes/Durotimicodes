@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Durotimicodes
-- 👀 I’m interested in building Event driven or data driven Micro service applications.
+- 👀 I’m interested in building Event driven and data driven Micro service applications using Golang, Python, ReactJs, Typescript.
 - 🌱 I’m also interested in deploying and monitoring application on the cloud.
 - 📫 How to reach me : Please send me an email on edmondfagbuyi@gmail.com
 <!---
